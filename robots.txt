@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /e/
+Sitemap: https://www.jspipe.cn/sitemap.xml
