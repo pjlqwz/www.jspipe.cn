@@ -582,5 +582,30 @@ h2 {
     <script src="https://c.mipcdn.com/static/v2/mip-semi-fixed/mip-semi-fixed.js"></script>
     <script src="https://c.mipcdn.com/static/v2/mip-stats-baidu/mip-stats-baidu.js"></script>
 
-    </body>
+<!--baidu自动推送-->
+    <script>
+    (function(){
+        var bp = document.createElement('script');
+        var curProtocol = window.location.protocol.split(':')[0];
+        if (curProtocol === 'https') {
+            bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';        
+        }
+        else {
+            bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+        }
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(bp, s);
+    })();
+</script>
+<!--头条自动推送-->
+<script>
+(function(){
+var el = document.createElement("script");
+el.src = "https://lf1-cdn-tos.bytegoofy.com/goofy/ttzz/push.js?d3ef5b1c3c0c4cdc22ee92013b187a67b5b4af96b2494041d05063c1ab3bea753d72cd14f8a76432df3935ab77ec54f830517b3cb210f7fd334f50ccb772134a";
+el.id = "ttzz";
+var s = document.getElementsByTagName("script")[0];
+s.parentNode.insertBefore(el, s);
+})(window)
+</script>
+</body>
 </html>
