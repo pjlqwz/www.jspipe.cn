@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
 xmlns:mobile="http://www.baidu.com/schemas/sitemap-mobile/1/"> 
 <url>  
+<loc>https://www.jspipe.cn/case/3/6632.html</loc>  
+<mobile:mobile type="pc,mobile"/>  
+<lastmod>2025-06-03</lastmod>  
+<changefreq>daily</changefreq>  
+<priority>0.8000</priority>  
+</url>  
+<url>  
+<loc>https://www.jspipe.cn/case/3/6631.html</loc>  
+<mobile:mobile type="pc,mobile"/>  
+<lastmod>2025-06-03</lastmod>  
+<changefreq>daily</changefreq>  
+<priority>0.8000</priority>  
+</url>  
+<url>  
 <loc>https://www.jspipe.cn/case/3/6630.html</loc>  
 <mobile:mobile type="pc,mobile"/>  
 <lastmod>2025-06-02</lastmod>  
