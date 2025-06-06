@@ -681,7 +681,7 @@ https://www.jspipe.cn/case/1/2018-12-19/10.html
 https://www.jspipe.cn/case/1/2018-12-19/9.html
 https://www.jspipe.cn/case/1/2018-12-19/8.html
 https://www.jspipe.cn/case/1/2018-12-19/7.html
-https://www.jspipe.cn/contect/2018-12-12/1.html
+https://www.jspipe.cn/contect/index_1.html
 https://www.jspipe.cn/peg/7/2018-12-19/138.html
 https://www.jspipe.cn/peg/7/2018-12-19/139.html
 https://www.jspipe.cn/peg/7/2018-12-19/140.html
