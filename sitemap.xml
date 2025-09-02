@@ -2,6 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
 xmlns:mobile="http://www.baidu.com/schemas/sitemap-mobile/1/"> 
 <url>  
+<loc>https://www.jspipe.cn/case/3/6912.html</loc>  
+<mobile:mobile type="pc,mobile"/>  
+<lastmod>2025-09-02</lastmod>  
+<changefreq>daily</changefreq>  
+<priority>0.8000</priority>  
+</url>  
+<url>  
+<loc>https://www.jspipe.cn/case/3/6911.html</loc>  
+<mobile:mobile type="pc,mobile"/>  
+<lastmod>2025-09-02</lastmod>  
+<changefreq>daily</changefreq>  
+<priority>0.8000</priority>  
+</url>  
+<url>  
+<loc>https://www.jspipe.cn/case/3/6910.html</loc>  
+<mobile:mobile type="pc,mobile"/>  
+<lastmod>2025-09-02</lastmod>  
+<changefreq>daily</changefreq>  
+<priority>0.8000</priority>  
+</url>  
+<url>  
+<loc>https://www.jspipe.cn/case/3/6909.html</loc>  
+<mobile:mobile type="pc,mobile"/>  
+<lastmod>2025-09-02</lastmod>  
+<changefreq>daily</changefreq>  
+<priority>0.8000</priority>  
+</url>  
+<url>  
 <loc>https://www.jspipe.cn/case/3/6908.html</loc>  
 <mobile:mobile type="pc,mobile"/>  
 <lastmod>2025-09-01</lastmod>  
