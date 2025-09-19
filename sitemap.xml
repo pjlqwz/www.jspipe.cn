@@ -7142,13 +7142,6 @@ xmlns:mobile="http://www.baidu.com/schemas/sitemap-mobile/1/">
 <priority>0.8000</priority>  
 </url>  
 <url>  
-<loc>https://www.jspipe.cn/peg/6/2018-12-19/283.html</loc>  
-<mobile:mobile type="pc,mobile"/>  
-<lastmod>2017-08-15</lastmod>  
-<changefreq>daily</changefreq>  
-<priority>0.8000</priority>  
-</url>  
-<url>  
 <loc>https://www.jspipe.cn/peg/5/2018-12-19/280.html</loc>  
 <mobile:mobile type="pc,mobile"/>  
 <lastmod>2017-08-15</lastmod>  
@@ -7156,7 +7149,7 @@ xmlns:mobile="http://www.baidu.com/schemas/sitemap-mobile/1/">
 <priority>0.8000</priority>  
 </url>  
 <url>  
-<loc>https://www.jspipe.cn/peg/6/2018-12-19/291.html</loc>  
+<loc>https://www.jspipe.cn/peg/6/2018-12-19/283.html</loc>  
 <mobile:mobile type="pc,mobile"/>  
 <lastmod>2017-08-15</lastmod>  
 <changefreq>daily</changefreq>  
@@ -7170,7 +7163,7 @@ xmlns:mobile="http://www.baidu.com/schemas/sitemap-mobile/1/">
 <priority>0.8000</priority>  
 </url>  
 <url>  
-<loc>https://www.jspipe.cn/peg/6/2018-12-19/295.html</loc>  
+<loc>https://www.jspipe.cn/peg/6/2018-12-19/291.html</loc>  
 <mobile:mobile type="pc,mobile"/>  
 <lastmod>2017-08-15</lastmod>  
 <changefreq>daily</changefreq>  
@@ -7178,6 +7171,13 @@ xmlns:mobile="http://www.baidu.com/schemas/sitemap-mobile/1/">
 </url>  
 <url>  
 <loc>https://www.jspipe.cn/peg/5/2018-12-19/293.html</loc>  
+<mobile:mobile type="pc,mobile"/>  
+<lastmod>2017-08-15</lastmod>  
+<changefreq>daily</changefreq>  
+<priority>0.8000</priority>  
+</url>  
+<url>  
+<loc>https://www.jspipe.cn/peg/6/2018-12-19/295.html</loc>  
 <mobile:mobile type="pc,mobile"/>  
 <lastmod>2017-08-15</lastmod>  
 <changefreq>daily</changefreq>  
@@ -7905,13 +7905,6 @@ xmlns:mobile="http://www.baidu.com/schemas/sitemap-mobile/1/">
 <priority>0.8000</priority>  
 </url>  
 <url>  
-<loc>https://www.jspipe.cn/peg/6/2018-12-19/299.html</loc>  
-<mobile:mobile type="pc,mobile"/>  
-<lastmod>2017-07-26</lastmod>  
-<changefreq>daily</changefreq>  
-<priority>0.8000</priority>  
-</url>  
-<url>  
 <loc>https://www.jspipe.cn/peg/5/2018-12-19/298.html</loc>  
 <mobile:mobile type="pc,mobile"/>  
 <lastmod>2017-07-26</lastmod>  
@@ -7919,7 +7912,7 @@ xmlns:mobile="http://www.baidu.com/schemas/sitemap-mobile/1/">
 <priority>0.8000</priority>  
 </url>  
 <url>  
-<loc>https://www.jspipe.cn/peg/6/2018-12-19/303.html</loc>  
+<loc>https://www.jspipe.cn/peg/6/2018-12-19/299.html</loc>  
 <mobile:mobile type="pc,mobile"/>  
 <lastmod>2017-07-26</lastmod>  
 <changefreq>daily</changefreq>  
@@ -7933,7 +7926,7 @@ xmlns:mobile="http://www.baidu.com/schemas/sitemap-mobile/1/">
 <priority>0.8000</priority>  
 </url>  
 <url>  
-<loc>https://www.jspipe.cn/peg/6/2018-12-19/304.html</loc>  
+<loc>https://www.jspipe.cn/peg/6/2018-12-19/303.html</loc>  
 <mobile:mobile type="pc,mobile"/>  
 <lastmod>2017-07-26</lastmod>  
 <changefreq>daily</changefreq>  
@@ -7941,6 +7934,13 @@ xmlns:mobile="http://www.baidu.com/schemas/sitemap-mobile/1/">
 </url>  
 <url>  
 <loc>https://www.jspipe.cn/peg/5/2018-12-19/302.html</loc>  
+<mobile:mobile type="pc,mobile"/>  
+<lastmod>2017-07-26</lastmod>  
+<changefreq>daily</changefreq>  
+<priority>0.8000</priority>  
+</url>  
+<url>  
+<loc>https://www.jspipe.cn/peg/6/2018-12-19/304.html</loc>  
 <mobile:mobile type="pc,mobile"/>  
 <lastmod>2017-07-26</lastmod>  
 <changefreq>daily</changefreq>  
@@ -8108,13 +8108,6 @@ xmlns:mobile="http://www.baidu.com/schemas/sitemap-mobile/1/">
 <priority>0.8000</priority>  
 </url>  
 <url>  
-<loc>https://www.jspipe.cn/pai/2/2018-12-19/341.html</loc>  
-<mobile:mobile type="pc,mobile"/>  
-<lastmod>2017-07-24</lastmod>  
-<changefreq>daily</changefreq>  
-<priority>0.8000</priority>  
-</url>  
-<url>  
 <loc>https://www.jspipe.cn/pai/2/2020-09-12/5900.html</loc>  
 <mobile:mobile type="pc,mobile"/>  
 <lastmod>2017-07-24</lastmod>  
@@ -8122,7 +8115,7 @@ xmlns:mobile="http://www.baidu.com/schemas/sitemap-mobile/1/">
 <priority>0.8000</priority>  
 </url>  
 <url>  
-<loc>https://www.jspipe.cn/pai/2/2018-12-19/346.html</loc>  
+<loc>https://www.jspipe.cn/pai/2/2018-12-19/341.html</loc>  
 <mobile:mobile type="pc,mobile"/>  
 <lastmod>2017-07-24</lastmod>  
 <changefreq>daily</changefreq>  
@@ -8136,7 +8129,7 @@ xmlns:mobile="http://www.baidu.com/schemas/sitemap-mobile/1/">
 <priority>0.8000</priority>  
 </url>  
 <url>  
-<loc>https://www.jspipe.cn/pai/2/2018-12-19/348.html</loc>  
+<loc>https://www.jspipe.cn/pai/2/2018-12-19/346.html</loc>  
 <mobile:mobile type="pc,mobile"/>  
 <lastmod>2017-07-24</lastmod>  
 <changefreq>daily</changefreq>  
@@ -8150,7 +8143,7 @@ xmlns:mobile="http://www.baidu.com/schemas/sitemap-mobile/1/">
 <priority>0.8000</priority>  
 </url>  
 <url>  
-<loc>https://www.jspipe.cn/pai/2/2018-12-19/349.html</loc>  
+<loc>https://www.jspipe.cn/pai/2/2018-12-19/348.html</loc>  
 <mobile:mobile type="pc,mobile"/>  
 <lastmod>2017-07-24</lastmod>  
 <changefreq>daily</changefreq>  
@@ -8158,6 +8151,13 @@ xmlns:mobile="http://www.baidu.com/schemas/sitemap-mobile/1/">
 </url>  
 <url>  
 <loc>https://www.jspipe.cn/pai/2/2020-09-12/5903.html</loc>  
+<mobile:mobile type="pc,mobile"/>  
+<lastmod>2017-07-24</lastmod>  
+<changefreq>daily</changefreq>  
+<priority>0.8000</priority>  
+</url>  
+<url>  
+<loc>https://www.jspipe.cn/pai/2/2018-12-19/349.html</loc>  
 <mobile:mobile type="pc,mobile"/>  
 <lastmod>2017-07-24</lastmod>  
 <changefreq>daily</changefreq>  
@@ -8192,14 +8192,14 @@ xmlns:mobile="http://www.baidu.com/schemas/sitemap-mobile/1/">
 <priority>0.8000</priority>  
 </url>  
 <url>  
-<loc>https://www.jspipe.cn/pai/2/2018-12-19/350.html</loc>  
+<loc>https://www.jspipe.cn/pai/2/2020-09-12/5904.html</loc>  
 <mobile:mobile type="pc,mobile"/>  
 <lastmod>2017-07-21</lastmod>  
 <changefreq>daily</changefreq>  
 <priority>0.8000</priority>  
 </url>  
 <url>  
-<loc>https://www.jspipe.cn/pai/2/2020-09-12/5904.html</loc>  
+<loc>https://www.jspipe.cn/pai/2/2018-12-19/350.html</loc>  
 <mobile:mobile type="pc,mobile"/>  
 <lastmod>2017-07-21</lastmod>  
 <changefreq>daily</changefreq>  
@@ -8213,14 +8213,14 @@ xmlns:mobile="http://www.baidu.com/schemas/sitemap-mobile/1/">
 <priority>0.8000</priority>  
 </url>  
 <url>  
-<loc>https://www.jspipe.cn/pai/2/2018-12-19/351.html</loc>  
+<loc>https://www.jspipe.cn/pai/2/2020-09-12/5905.html</loc>  
 <mobile:mobile type="pc,mobile"/>  
 <lastmod>2017-07-21</lastmod>  
 <changefreq>daily</changefreq>  
 <priority>0.8000</priority>  
 </url>  
 <url>  
-<loc>https://www.jspipe.cn/pai/2/2020-09-12/5905.html</loc>  
+<loc>https://www.jspipe.cn/pai/2/2018-12-19/351.html</loc>  
 <mobile:mobile type="pc,mobile"/>  
 <lastmod>2017-07-21</lastmod>  
 <changefreq>daily</changefreq>  
