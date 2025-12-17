@@ -538,4 +538,9 @@ h2 {
 var el = document.createElement("script");
 el.src = "https://lf1-cdn-tos.bytegoofy.com/goofy/ttzz/push.js?d3ef5b1c3c0c4cdc22ee92013b187a67b5b4af96b2494041d05063c1ab3bea753d72cd14f8a76432df3935ab77ec54f830517b3cb210f7fd334f50ccb772134a";
 el.id = "ttzz";
-var s = document.getElementsByT
+var s = document.getElementsByTagName("script")[0];
+s.parentNode.insertBefore(el, s);
+})(window)
+</script>
+</body>
+</html>
